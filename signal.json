@@ -1,1 +1,10 @@
-{"actor":"ggjt1923","event":"issue_comment","id":"issue_comment-test-wake-001","repo":"ggjt1923/career-system-poc","thread_number":53,"updated_at":"2026-11-27T08:20:00Z","url":"https://github.com/ggjt1923/career-system-poc/issues/53","version":1}
+{
+  "version": 1,
+  "id": "issue_comment-7213437822",
+  "updated_at": "2026-11-27T08:21:04Z",
+  "repo": "ggjt1923/career-system-poc",
+  "event": "issue_comment",
+  "thread_number": 53,
+  "actor": "jarvismuse1923",
+  "url": "https://github.com/ggjt1923/career-system-poc/issues/53#issuecomment-7213437822"
+}
